@@ -1,0 +1,20 @@
+{
+	"A": {
+		"firstname": "Amit",
+		"lastname": "Mondal",
+		"country": "India",
+		"flag": "India.png"
+	},
+	"N": {
+		"firstname": "Nandan",
+		"lastname": "Grover",
+		"country": "England",
+		"flag": "England.jpg"
+	},
+	"O": {
+		"firstname": "Omkar",
+		"lastname": "Dubas",
+		"country": "Germany",
+		"flag": "Germany.png"
+	}
+}
